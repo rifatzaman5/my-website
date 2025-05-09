@@ -12,8 +12,7 @@ This project includes:
 
 ## Live Demo
 
-Visit the live site at: [https://yourusername.github.io/my-website](https://yourusername.github.io/my-website)
-(Replace "yourusername" with your actual GitHub username once deployed)
+Visit the live site at: [https://github.com/rifatzaman5/my-website](https://github.com/rifatzaman5/my-website)
 
 ## How to Use
 
